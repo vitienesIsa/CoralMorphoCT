@@ -1,4 +1,4 @@
-# PoritesPorosity
+# PoritesMorphoCT
 This repository contains scripts developed to evaluate porosity and thickness outcomes in segmented labCT images of Porites astreoides coral skeleton samples.
 This code can be applied to samples of other species, but adjustments in certain parameters may be needed due to differences in coral skeleton architecture.
 
