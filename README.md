@@ -4,10 +4,10 @@ This code can be applied to samples of other species, but adjustments in certain
 
 This tool was developed as part of a larger study, "Asymmetric Depth Acclimation and Plasticity Limit the Refugial Potential of Mesophotic Porites astreoides", investigating adaptation to depth changes in corals, specifically Porites astreoides. The full project repository — including data, additional scripts, data processing workflows, and supporting material — is available here: XXXXX. 
 
-# Method overview
+## Method overview
 
-# Usage
+## Usage
 
-# Publication
+## Publication
 
-# Funding
+## Funding
