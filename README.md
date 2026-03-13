@@ -7,7 +7,12 @@ This tool was developed as part of a larger study, "Asymmetric Depth Acclimation
 ## Method overview
 
 ## Usage
+### Linux
+1. Create a conda environment with the environmentl.yml file.
+2. Activate the environment, and run the python file. 
 
 ## Publication
+xxx
 
 ## Funding
+This tool was developed in 2025 by Isabela Vitienes, in the Zaslansky lab of the Department of Operative, Preventive and Pediatric Dentistry at Charité – Universitätsmedizin Berlin, with funding from the DFG (FOR5657).
